@@ -10,7 +10,7 @@
     "lint:fix": "eslint src/**/*.js --fix",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "test": "vitest run",
+    "test": "vitest",
     "test:watch": "vitest",
     "prepare": "husky"
   },
